@@ -10,5 +10,5 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
     
     <td>Thyago<td>
   <ul>
-  <td>Mariana<td>
+  <th>Mariana<th>
 <table>
