@@ -7,6 +7,6 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 <table>
   <th>
     <td>Nicolas<td>
-    <td>Nicolas<td>
+    <th>Nicolas<th>
   <th>
 <table>
