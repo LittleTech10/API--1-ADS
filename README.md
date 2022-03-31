@@ -7,7 +7,7 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 <table>
   <ul>
     <td>Nicolas<td>
-    <td>Mariana<td>
+    <th>Mariana<th>
     <td>Thyago<td>
   <ul>
 <table>
