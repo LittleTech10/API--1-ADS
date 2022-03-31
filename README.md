@@ -6,9 +6,10 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 
 <table>
   <ul>
-    <td>Nicolas<td>
-    
-    <td>Thyago<td>
+    <td>
+      Nicolas
+      Mariana
+      Thyago
+    <td>
   <ul>
-  <th>Mariana<th>
 <table>
