@@ -5,8 +5,7 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 # Little Tech
 
 <table>
-  <th>
+  <ul>
     <td>Nicolas<td>
-    <th>Nicolas<th>
-  <th>
+  <ul>
 <table>
