@@ -8,6 +8,6 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
   <ul>
     <td>Nicolas<td>
   <ul>
-<table>
+<\table>
   
-#Cronograma das Sprints
+# Cronograma das Sprints
