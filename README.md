@@ -7,3 +7,4 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 <br>
 <br>
 <h2>Cronograma das Sprints</h2>
+img src="imgs/Cronograma das sprints - foto.png"
