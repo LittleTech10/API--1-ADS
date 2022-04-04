@@ -1,13 +1,5 @@
-# API- 1º ADS
+# API: 1º ADS - Little Tech
 
 Aprendizado por Projeto Integrado do 1º semestre da FATEC.
-
-# Little Tech
-
-<table>
-  <ul>
-    <td>Nicolas<td>
-  <ul>
-<\table>
   
 # Cronograma das Sprints
