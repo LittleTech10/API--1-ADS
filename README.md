@@ -2,4 +2,4 @@
 
 Aprendizado por Projeto Integrado do 1º semestre da FATEC.
   
-# Cronograma das Sprints
+<h3> O Projeto</h3>
