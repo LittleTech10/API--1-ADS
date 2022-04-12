@@ -25,6 +25,7 @@ Requisitos Não Funcionais:<br>
 
 - [ ] Site de caráter institucional <br>
 - [ ] Github <br>
+
 <br>
 <br>
 <h2>Cronograma das Sprints 📆</h2><br>
