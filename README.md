@@ -66,15 +66,15 @@ Requisitos Não Funcionais:<br>
 <br>
 <h2>Equipe 🎓</h2>
  
- Nome | Função | Github | Linkedin 
-------|--------|--------|----------
-Brener Reis|Desenvolvedor|@Github|@Linkedin
+ Nome|Função|Github|Linkedin 
+-----|------|------|---------
+Brener Reis    |Desenvolvedor|@Github|@Linkedin
 Gabriel Angelis|Desenvolvedor|@Github|@Linkedin
-Isabel|P.O.          |@Github|@Linkedin
-Mariana|Scrum Master|@Github|@Linkedin
-Nicolas|Desenvolvedor|@Github|@Linkedin
-Rafaela Cabral|Desenvolvedor|@Github|@Linkedin
-Thyago|Desenvolvedor|@Github|@Linkedin
+Isabel Reis    |P.O.         |@Github|@Linkedin
+Mariana        |Scrum Master |@Github|@Linkedin
+Nicolas        |Desenvolvedor|@Github|@Linkedin
+Rafaela Cabral |Desenvolvedor|@Github|@Linkedin
+Thyago         |Desenvolvedor|@Github|@Linkedin
 
  
 <br>
