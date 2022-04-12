@@ -14,7 +14,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 <br>
 <br>
 <h2>Cronograma das Sprints</h2>
-![Cronograma Sprits]
+![Cronograma Sprits](https://user-images.githubusercontent.com/102386908/163035942-7fb67da2-6b5c-4111-a74c-fec6346af3f6.jpeg)
 
 <br>
 <br>
