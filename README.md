@@ -13,11 +13,11 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 <br>
 Requisitos Funcionais:<br>
 <br>
-[] Linguagem Python (Requisito Fatec)<br>
-[] Linguagem HTML e CSS (Requisito Fatec)<br>
-[] Uso do framework Bootstrap<br>
-[] Apresentação via Github.<br>
-[] O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
+- [ ] Linguagem Python (Requisito Fatec)<br>
+- [ ] Linguagem HTML e CSS (Requisito Fatec)<br>
+- [ ] Uso do framework Bootstrap<br>
+- [ ] Apresentação via Github.<br>
+- [ ] O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
 <br>
 Requisitos Não Funcionais:<br>
 <br>
