@@ -25,10 +25,14 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 • O sistema web deverá ter no mínimo 5 páginas(Página principal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
 <br>
 <br>
-<h2>Requisitos Não Funcionais</h2>
+<h2>Objetivos 🎓</h2>
+<h1>Requisitos Funcionais</h1>
 <br>
 <br>
-<h2>Equipe</h2>
+<h1>Requisitos Não Funcionais</h1>
+<br>
+<br>
+<h2>Equipe 🎓</h2>
 
 
 
