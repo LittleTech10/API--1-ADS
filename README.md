@@ -47,7 +47,12 @@ Requisitos Não Funcionais:<br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-
+• Reuniões: Discord e WhatsApp <br>
+• Back-end: Python, html , CSS <br>
+• Front-end: HTML, CSS, Figma <br>
+• Ferramentas: Github, Visual Studio Code, Figma e Canva <br>
+<br>
+<br>
 <div style="display: inline_blocks"><br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= "100" width= "100"/> 
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= "100" width= "100"/>
