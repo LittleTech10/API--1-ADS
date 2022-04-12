@@ -22,6 +22,9 @@ Requisitos Funcionais:<br>
 <br>
 Requisitos Não Funcionais:<br>
 <br>
+
+- [ ] Site de caráter institucional
+<br>
 <br>
 <h2>Cronograma das Sprints 📆</h2><br>
 
