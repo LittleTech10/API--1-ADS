@@ -22,11 +22,12 @@ Requisitos Funcionais:<br>
 Requisitos Não Funcionais:<br>
 <br>
 <br>
-<h2>Cronograma das Sprints 📆</h2>
-- [ ] Sprint 1 -
-- [ ] Sprint 2 -
-- [ ] Sprint 3 -
-- [ ] Sprint 4 -
+<h2>Cronograma das Sprints 📆</h2><br>
+
+- [ ] Sprint 1 - <br>
+- [ ] Sprint 2 - <br>
+- [ ] Sprint 3 - <br>
+- [ ] Sprint 4 - <br>
 <br>
 <br>
 <h2>Conhecimento exigido</h2>
