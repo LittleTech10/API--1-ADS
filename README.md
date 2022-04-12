@@ -61,6 +61,17 @@ Requisitos Não Funcionais:<br>
 <br>
 <br>
 <h2>Equipe 🎓</h2>
+ 
+ Nome | Função | Github | Linkedin 
+------|--------|--------|----------
+Brener|Desenvolvedor|@Github|@Linkedin
+Gabriel|Desenvolvedor|@Github|@Linkedin
+Rafaela|Desenvolvedor|@Github|@Linkedin
+Mariana|Scrum Master|@Github|@Linkedin
+Isabel|P.O.|@Github|@Github|@Linkedin
+Thyago|Desenvolvedor|@Github|@Linkedin
+Nicolas|Desenvolvedor|@Github|@Linkedin
+ 
 <br>
 <br>
 
