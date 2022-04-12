@@ -26,6 +26,15 @@ Requisitos Funcionais<br>
 • Lógica de programação<br>
 <br>
 <br>
+<h2>Mapa do Site 🗺️</h2>
+<br>
+<br>
+<h2>Tecnologias Utilizadas 🔧</h2>
+<br>
+<br>
+<h2>Backlog 📊 </h2>
+<br>
+<br>
 <h2>Equipe 🎓</h2>
 <br>
 <br>
