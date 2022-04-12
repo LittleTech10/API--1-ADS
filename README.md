@@ -8,7 +8,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 <br>
 <br>
 <h2>Objetivos 📌</h2>
-Temos como objetivo desenvolver uma website com o objetivo de facilitar a classificação de vagas de emprego e cursos com foco em vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. Temos as seguintes exigências:
+Temos como objetivo desenvolver uma website com o objetivo declassificação de vagas de emprego e cursos com foco em vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. Temos as seguintes exigências:
 <br>
 <br>
 Requisitos Funcionais<br>
