@@ -70,7 +70,7 @@ Requisitos Não Funcionais:<br>
 -----|------|------|---------
 Brener Reis    |Desenvolvedor|@Github|@Linkedin
 Gabriel Angelis|Desenvolvedor|@Github|@Linkedin
-Isabel Reis    |P.O.         |@Github|@Linkedin
+Isabel Reis    |Product Owner|@Github|@Linkedin
 Mariana Veloso |Scrum Master |@Github|@Linkedin
 Nicolas Pereira|Desenvolvedor|@Github|@Linkedin
 Rafaela Cabral |Desenvolvedor|@Github|@Linkedin
