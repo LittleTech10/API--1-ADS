@@ -30,10 +30,9 @@ Requisitos Não Funcionais:<br>
 <br>
 <h2>Cronograma das Sprints 📆</h2><br>
 
-- [ ] Sprint 1 - <br>
-- [ ] Sprint 2 - <br>
-- [ ] Sprint 3 - <br>
-- [ ] Sprint 4 - <br>
+- [ ] Sprint 1 - 25/03 -14/04 <br>
+- [ ] Sprint 2 - 15/04 -25/04 <br>
+- [ ] Sprint 3 - 16/05 - 05/06 <br>
 <br>
 <br>
 <h2>Conhecimento exigido</h2>
@@ -69,13 +68,14 @@ Requisitos Não Funcionais:<br>
  
  Nome | Função | Github | Linkedin 
 ------|--------|--------|----------
-Brener|Desenvolvedor|@Github|@Linkedin
-Gabriel|Desenvolvedor|@Github|@Linkedin
-Rafaela|Desenvolvedor|@Github|@Linkedin
-Mariana|Scrum Master|@Github|@Linkedin
+Brener Reis|Desenvolvedor|@Github|@Linkedin
+Gabriel Angelis|Desenvolvedor|@Github|@Linkedin
 Isabel|P.O.          |@Github|@Linkedin
-Thyago|Desenvolvedor|@Github|@Linkedin
+Mariana|Scrum Master|@Github|@Linkedin
 Nicolas|Desenvolvedor|@Github|@Linkedin
+Rafaela Cabral|Desenvolvedor|@Github|@Linkedin
+Thyago|Desenvolvedor|@Github|@Linkedin
+
  
 <br>
 <br>
