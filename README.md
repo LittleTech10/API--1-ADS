@@ -11,13 +11,17 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 Temos como objetivo desenvolver uma website com o foco na classificação de vagas de emprego e cursos tendo como prioridade vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. Temos as seguintes exigências:
 <br>
 <br>
-Requisitos Funcionais<br>
+Requisitos Funcionais:<br>
 <br>
 • Linguagem Python (Requisito Fatec)<br>
 • Linguagem HTML e CSS (Requisito Fatec)<br>
 • Uso do framework Bootstrap<br>
 • Apresentação via Github.<br>
 • O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
+<br>
+Requisitos Não Funcionais:<br>
+<br>
+<br>
 <h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
