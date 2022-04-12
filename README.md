@@ -8,20 +8,20 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 <br>
 <br>
 <h2>Conhecimento exigido</h2>
-• Controle de versão
-• Processo de Desenvolvimento Ágil
-• Lógica de programação
+• Controle de versão<br>
+• Processo de Desenvolvimento Ágil<br>
+• Lógica de programação<br>
 <br>
 <br>
 <h2>Cronograma das Sprints</h2>
 <br>
 <br>
 <h2>Requisitos Funcionais</h2>
-• Linguagem Python (Requisito Fatec)
-• Linguagem HTML e CSS (Requisito Fatec)
-• Uso do framework Bootstrap
-• Apresentação via Github.
-• O sistema web deverá ter no mínimo 5 páginas(Página principal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
+• Linguagem Python (Requisito Fatec)<br>
+• Linguagem HTML e CSS (Requisito Fatec)<br>
+• Uso do framework Bootstrap<br>
+• Apresentação via Github.<br>
+• O sistema web deverá ter no mínimo 5 páginas(Página principal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese<br> requisitos) e Localização (vagas e cursos).
 <br>
 <br>
 <h2>Requisitos Não Funcionais</h2>
