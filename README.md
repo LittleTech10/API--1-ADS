@@ -10,9 +10,6 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 <h2>Objetivos 📌</h2>
 <br>
 <br>
-<h2>Cronograma das Sprints 📆</h2>
-<br>
-<br>
 Requisitos Funcionais<br>
 <br>
 • Linguagem Python (Requisito Fatec)<br>
@@ -24,6 +21,9 @@ Requisitos Funcionais<br>
 • Controle de versão<br>
 • Processo de Desenvolvimento Ágil<br>
 • Lógica de programação<br>
+<br>
+<br>
+<h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
 <h2>Equipe 🎓</h2>
