@@ -17,7 +17,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 <br>
 <br>
 <h2>Objetivos 🎓</h2>
-Requisitos Funcionais
+Requisitos Funcionais<br>
 • Linguagem Python (Requisito Fatec)<br>
 • Linguagem HTML e CSS (Requisito Fatec)<br>
 • Uso do framework Bootstrap<br>
