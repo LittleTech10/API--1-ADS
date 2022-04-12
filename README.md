@@ -68,7 +68,7 @@ Brener|Desenvolvedor|@Github|@Linkedin
 Gabriel|Desenvolvedor|@Github|@Linkedin
 Rafaela|Desenvolvedor|@Github|@Linkedin
 Mariana|Scrum Master|@Github|@Linkedin
-Isabel|P.O.|@Github|@Github|@Linkedin
+Isabel|P.O.          |@Github|@Linkedin
 Thyago|Desenvolvedor|@Github|@Linkedin
 Nicolas|Desenvolvedor|@Github|@Linkedin
  
