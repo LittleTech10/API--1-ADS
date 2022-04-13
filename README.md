@@ -80,10 +80,10 @@ Requisitos Não Funcionais:<br>
  
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
-Brener Reis    |Desenvolvedor|@Github|@Linkedin
-Gabriel Angelis|Desenvolvedor|@Github|@Linkedin
+Brener Reis    |Desenvolvedor|[@Github](https://github.com/BrenerReis)|[@Linkedin](https://www.linkedin.com/in/brener-freire-058950230/)
+Gabriel Angelis|Desenvolvedor|[@Github](https://github.com/GabrAngelis)|@Linkedin
 Isabel Reis    |Product Owner|@Github|@Linkedin
-Mariana Veloso |Scrum Master |@Github|@Linkedin
+Mariana Veloso |Scrum Master |[@Github](https://github.com/Marih2210)|[@Linkedin](www.linkedin.com/in/mariana-veloso-979436231)
 Nicolas Pereira|Desenvolvedor|@Github|@Linkedin
 Rafaela Cabral |Desenvolvedor|@Github|@Linkedin
 Thyago Silveira|Desenvolvedor|@Github|@Linkedin
