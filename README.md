@@ -14,9 +14,9 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 Requisitos Funcionais:<br>
 <br>
 
-- [ ] Linguagem Python (Requisito Fatec)<br>
-- [ ] Linguagem HTML e CSS (Requisito Fatec)<br>
-- [ ] Uso do framework Bootstrap<br>
+✔️ Linguagem Python (Requisito Fatec)<br>
+✔️ Linguagem HTML e CSS (Requisito Fatec)<br>
+✔️ Uso do framework Bootstrap<br>
 - [ ] Apresentação via Github.<br>
 - [ ] O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
 <br>
@@ -34,12 +34,13 @@ Requisitos Não Funcionais:<br>
 - [ ] Sprint 2 - 15/04 -25/04 <br>
 - [ ] Sprint 3 - 16/05 - 05/06 <br>
 <br>
-<img src="/img/Cronograma das prints - png.png"/>
+<img align="center" src="/img/Cronograma das prints - png.png"/>
 <br>
-<h2>Conhecimento exigido</h2>
-• Controle de versão<br>
-• Processo de Desenvolvimento Ágil<br>
-• Lógica de programação<br>
+<h2>Conhecimento exigido 📚</h2><br>
+
+- [ ] Controle de versão<br>
+✔️ Processo de Desenvolvimento Ágil<br>
+✔️ Lógica de programação<br>
 <br>
 <br>
 <h2>Mapa do Site 🗺️</h2>
@@ -65,9 +66,13 @@ Requisitos Não Funcionais:<br>
  <img align="center"src="/img/js.png"/ height= "80" width= "80"/>  
  
 <br>
-<h2>Backlog 📊 </h2>
+<h2>Backlog 📈</h2>
 <br>
 <img src="/img/Prioridade_Atividades.jpeg"/>
+<br>
+<br>
+<h2>Burndown 📊 </h2> <br>
+<br>
 <br>
 <h2>Equipe 🎓</h2>
  
