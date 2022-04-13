@@ -17,11 +17,11 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <br>
-✔️ Página principal do projeto <br>
-✔️ Disponibilizar Vagas de Empregos <br>
-✔️ Ofertar Cursos e Certificações <br>
-✔️ Informações Métricas de vagas com base em: conhecimentos necessários, habilidades, requisitos. <br>
-✔️ Busca de vagas e cursos por sua localização <br>
+✔️ Página principal do projeto. <br>
+✔️ Disponibilizar Vagas de Emprego. <br>
+✔️ Ofertar Cursos e Certificações. <br>
+✔️ Informações Métricas de vagas com base em: conhecimentos necessários, habilidades e requisitos. <br>
+✔️ Busca de vagas e cursos por sua localização. <br>
 <br>
 <br>
 <h3> • Requisitos Não Funcionais: </h3> 
