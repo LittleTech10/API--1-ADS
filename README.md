@@ -69,7 +69,7 @@ Requisitos Não Funcionais:<br>
 <br>
 <h2>Backlog 📊</h2>
 <br>
-<img src="/img/Prioridade_Atividades.jpeg"/>
+<img align="center" src="/img/Prioridade_Atividades.jpeg"/>
 <br>
 <br>
 <h2>Burndown 📈📉 </h2> <br>
