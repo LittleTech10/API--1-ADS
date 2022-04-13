@@ -34,6 +34,7 @@ Requisitos Não Funcionais:<br>
 - [ ] Sprint 2 - 15/04 -25/04 <br>
 - [ ] Sprint 3 - 16/05 - 05/06 <br>
 <br>
+<img src="/img/Cronograma das prints - png.png"/>
 <br>
 <h2>Conhecimento exigido</h2>
 • Controle de versão<br>
