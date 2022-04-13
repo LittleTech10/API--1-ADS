@@ -59,7 +59,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 
 <h3> • Sprint 3 - 16/05 a 05/06 </h3>
 
- - [ ] Documentação Github
+ - [ ] Documentação via Github
  - [ ] Manutenção e ajustes finais
 <br>
 <br>
