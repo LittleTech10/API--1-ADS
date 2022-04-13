@@ -23,8 +23,8 @@ Requisitos Funcionais:<br>
 Requisitos Não Funcionais:<br>
 <br>
 
-- [ ] Site de caráter institucional <br>
-- [ ] Github <br>
+✔️ Site de caráter institucional <br>
+✔️ Github <br>
 
 <br>
 <br>
@@ -39,9 +39,9 @@ Requisitos Não Funcionais:<br>
 <br>
 <h2>Conhecimento exigido 📚</h2><br>
 
-- [ ] Controle de versão<br>
 ✔️ Processo de Desenvolvimento Ágil<br>
 ✔️ Lógica de programação<br>
+- [ ] Controle de versão<br>
 <br>
 <br>
 <h2>Mapa do Site 🗺️</h2>
