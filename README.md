@@ -20,7 +20,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  • Página principal do projeto. <br>
  • Disponibilizar Vagas de Emprego. <br>
  • Ofertar Cursos e Certificações. <br>
- • Informações Métricas de vagas com base em: conhecimentos necessários, habilidades e requisitos. <br>
+ • Informações Métricas de vagas e cursos com base em: conhecimentos necessários, habilidades e requisitos. <br>
  • Busca de vagas e cursos por sua localização. <br>
 <br>
 <br>
