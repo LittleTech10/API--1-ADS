@@ -100,7 +100,7 @@ Brener Reis    |Desenvolvedor|[@Github](https://github.com/BrenerReis)|[@Linkedi
 Gabriel Angelis|Desenvolvedor|[@Github](https://github.com/GabrAngelis)|@Linkedin
 Isabel Reis    |Product Owner|@Github|@Linkedin
 Mariana Veloso |Scrum Master |[@Github](https://github.com/Marih2210)|[@Linkedin](www.linkedin.com/in/mariana-veloso-979436231)
-Nicolas Pereira|Desenvolvedor|@Github|@Linkedin
+Nicolas Pereira|Desenvolvedor|[@Github](https://github.com/NicolasPereira06)|[@Linkedin](https://www.linkedin.com/in/nicolas-bonif%C3%A1cio-426804237/)
 Rafaela Cabral |Desenvolvedor|@Github|@Linkedin
 Thyago Silveira|Desenvolvedor|@Github|@Linkedin
 
