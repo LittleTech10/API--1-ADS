@@ -42,10 +42,10 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 
 <h3> • Sprint 1 - 25/03 a 14/04 </h3>
 
- - [ ] Wireframe
- - [ ] Página Home
- - [ ] Página Vagas em T.I.
- - [ ] Página de Cursos em T.I.
+✔️ Wireframe <br>
+✔️ Página Home <br>
+✔️ Página Vagas em T.I. <br>
+✔️ Página de Cursos em T.I. <br>
  - [ ] Página Métricas
  - [ ] Páginas de Localização
 
