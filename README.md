@@ -11,33 +11,37 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 Temos como objetivo desenvolver uma website com o foco na classificação de vagas de emprego e cursos tendo como prioridade vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. 
 <br>
 <br>
-Requisitos Funcionais:
-
+• Requisitos Funcionais:
+<br>
+<br>
 ✔️ Linguagem Python (Requisito Fatec)<br>
 ✔️ Linguagem HTML e CSS (Requisito Fatec)<br>
 ✔️ Uso do framework Bootstrap<br>
 ✔️ Apresentação via Github.<br>
 ✔️ O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
-
-Requisitos Não Funcionais:
-
+<br>
+<br>
+<br>
+• Requisitos Não Funcionais:
+<br>
+<br>
 ✔️ Site de caráter institucional<br>
 ✔️ Github<br>
-
-
+<br>
+<br>
 <h2>Cronograma das Sprints 📆</h2>
-
+<br>
+<br>
 <img align="center" src="/img/Cronograma das prints - png.png"/>
 
-
-• Sprint 1 - 25/03 a 14/04 <br>
+• Sprint 1 - 25/03 a 14/04 
  - [ ] Wireframe
  - [ ] Página Home
  - [ ] Página Vagas em T.I.
  - [ ] Página de Cursos em T.I.
  - [ ] Página Métricas
  - [ ] Páginas de Localização
- 
+
 • Sprint 2 - 25/04 a 15/05 
  - [ ] Menu de vagas por região e nível profissional
  - [ ] Barra de pesquisa
@@ -48,7 +52,7 @@ Requisitos Não Funcionais:
 • Sprint 3 - 16/05 a 05/06 
  - [ ] Documentação Github
  - [ ] Manutenção e ajustes finais
-
+ 
 <h2>Conhecimento exigido 📚</h2><br>
 
 ✔️ Processo de Desenvolvimento Ágil<br>
