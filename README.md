@@ -1,47 +1,59 @@
 # API: 1º ADS - Little Tech
 
 Aprendizado por Projeto Integrado do 1º semestre da FATEC.
-<br>
-<br>
+
+
 <h2> O Projeto 💼 </h2>
 Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente  TI  e  configurar  métricas  para  pontos  como  tipos  de  conhecimento,  habilidades  e competências.  Visualmente  deverá  ter  informações  do  tipo  estratégicas  (gráficos),  facilidades  de usabilidade  e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente. 
-<br>
-<br>
+
+
 <h2>Objetivos 📌</h2>
-Temos como objetivo desenvolver uma website com o foco na classificação de vagas de emprego e cursos tendo como prioridade vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. Temos as seguintes exigências:
+Temos como objetivo desenvolver uma website com o foco na classificação de vagas de emprego e cursos tendo como prioridade vagas na área de T.I., visando facilitar a procura de possíveis usuários pelas vagas certas. 
 <br>
 <br>
-Requisitos Funcionais:<br>
-<br>
+Requisitos Funcionais:
 
 ✔️ Linguagem Python (Requisito Fatec)<br>
 ✔️ Linguagem HTML e CSS (Requisito Fatec)<br>
 ✔️ Uso do framework Bootstrap<br>
-- [ ] Apresentação via Github.<br>
-- [ ] O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
-<br>
-Requisitos Não Funcionais:<br>
-<br>
+✔️ Apresentação via Github.<br>
+✔️ O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
 
-✔️ Site de caráter institucional <br>
-✔️ Github <br>
+Requisitos Não Funcionais:
 
-<br>
-<br>
-<h2>Cronograma das Sprints 📆</h2><br>
-<br>
+✔️ Site de caráter institucional<br>
+✔️ Github<br>
+
+
+<h2>Cronograma das Sprints 📆</h2>
+
 <img align="center" src="/img/Cronograma das prints - png.png"/>
-<br>
 
-- [ ] Sprint 1 - 25/03 -14/04 <br>
-- [ ] Sprint 2 - 25/04 -15/05 <br>
-- [ ] Sprint 3 - 16/05 - 05/06 <br>
-<br>
+
+• Sprint 1 - 25/03 a 14/04 <br>
+ - [ ] Wireframe
+ - [ ] Página Home
+ - [ ] Página Vagas em T.I.
+ - [ ] Página de Cursos em T.I.
+ - [ ] Página Métricas
+ - [ ] Páginas de Localização
+ 
+• Sprint 2 - 25/04 a 15/05 
+ - [ ] Menu de vagas por região e nível profissional
+ - [ ] Barra de pesquisa
+ - [ ] Framework Bootstrap
+ - [ ] Framework Flask
+ - [ ] Implementação do Java
+
+• Sprint 3 - 16/05 a 05/06 
+ - [ ] Documentação Github
+ - [ ] Manutenção e ajustes finais
+
 <h2>Conhecimento exigido 📚</h2><br>
 
 ✔️ Processo de Desenvolvimento Ágil<br>
 ✔️ Lógica de programação<br>
-- [ ] Controle de versão<br>
+✔️ Controle de versão<br>
 <br>
 <br>
 <h2>Visual do Site 💻</h2>
