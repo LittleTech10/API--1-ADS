@@ -27,10 +27,10 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <h3> Requisitos Não Funcionais: </h3> 
 <br>
 <br>
- • Linguagem Python (Requisito Fatec)<br>
- • Linguagem HTML e CSS (Requisito Fatec)<br>
+ • Linguagem Python<br>
+ • Linguagem HTML e CSS<br>
  • Uso do framework Bootstrap<br>
- • Apresentação via Github.<br>
+ • Apresentação via Github<br>
  • Site de caráter institucional<br>
  • Github<br>
 <br>
