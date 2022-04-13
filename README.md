@@ -50,8 +50,8 @@ Requisitos Não Funcionais:<br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
 • Reuniões: Discord e WhatsApp <br>
-• Back-end: Python, html , CSS <br>
-• Front-end: HTML, CSS, Figma <br>
+• Back-end: Python, Flask<br>
+• Front-end: HTML, CSS, JavaScript, Figma <br>
 • Ferramentas: Github, Visual Studio Code, Figma e Canva <br>
 <br>
 <br>
