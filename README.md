@@ -82,12 +82,16 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="/img/js.png"/ height= "80" width= "80"/>  
  
 <br>
-<h2>Backlog 📊</h2>
+<h2>Backlog 📊</h2><br>
+ O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
+<br>
 <br>
 <img align="center" src="/img/Prioridade_Atividades.jpeg"/>
 <br>
 <br>
 <h2>Burndown 📈📉 </h2> <br>
+ O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
+<br>
 <h3>Burndown - Sprint 1 </h3> <br>
 <img align="center"src="/img/burndown.png"/>  
 <br>
