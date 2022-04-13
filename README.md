@@ -105,7 +105,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 -----|------|------|---------
 Brener Reis    |Desenvolvedor|[@Github](https://github.com/BrenerReis)|[@Linkedin](https://www.linkedin.com/in/brener-freire-058950230/)
 Gabriel Angelis|Desenvolvedor|[@Github](https://github.com/GabrAngelis)|@Linkedin
-Isabel Reis    |Product Owner|@Github|@Linkedin
+Isabel Reis    |Product Owner|[@Github](https://github.com/VitoriaKings)|[@Linkedin](https://www.linkedin.com/in/isabel-reis-09806920b/)
 Mariana Veloso |Scrum Master |[@Github](https://github.com/Marih2210)|[@Linkedin](www.linkedin.com/in/mariana-veloso-979436231)
 Nicolas Pereira|Desenvolvedor|[@Github](https://github.com/NicolasPereira06)|[@Linkedin](https://www.linkedin.com/in/nicolas-bonif%C3%A1cio-426804237/)
 Rafaela Cabral |Desenvolvedor|@Github|@Linkedin
