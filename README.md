@@ -4,7 +4,7 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 
 
 <h2> O Projeto 💼 </h2>
-Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente  TI  e  configurar  métricas  para  pontos  como  tipos  de  conhecimento,  habilidades  e competências.  Visualmente  deverá  ter  informações  do  tipo  estratégicas  (gráficos),  facilidades  de usabilidade  e operação bem como toda a documentação de desenvolvimento lastreado no GitHub com todos os processos necessários para a fidelização do cliente. 
+Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente  TI  e  configurar  métricas  para  pontos  como  tipos  de  conhecimento,  habilidades  e competências.  Visualmente  deverá  ter  informações  do  tipo  estratégicas  (gráficos),  facilidades  de usabilidade  e operação bem como toda a documentação de desenvolvimento no GitHub com todos os processos necessários para a fidelização do cliente. 
 
 
 <h2>Objetivos 📌</h2>
@@ -14,17 +14,23 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 • Requisitos Funcionais:
 <br>
 <br>
+O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
+<br>
+<br>
+✔️ Página principal do projeto <br>
+✔️ Disponibilizar Vagas de Empregos <br>
+✔️ Ofertar Cursos e Certificações <br>
+✔️ Informações Métricas de vagas com base em: conhecimentos necessários, habilidades, requisitos. <br>
+✔️ Busca de vagas e cursos por sua localização <br>
+<br>
+<br>
+• Requisitos Não Funcionais: 
+<br>
+<br>
 ✔️ Linguagem Python (Requisito Fatec)<br>
 ✔️ Linguagem HTML e CSS (Requisito Fatec)<br>
 ✔️ Uso do framework Bootstrap<br>
 ✔️ Apresentação via Github.<br>
-✔️ O sistema web deverá ter no mínimo 5 páginas(Páginaprincipal do projeto, Vagas de Empregos, Cursose Certificações, Métricas (conhecimentos necessários, habilidadese requisitos) e Localização (vagas e cursos).
-<br>
-<br>
-<br>
-• Requisitos Não Funcionais:
-<br>
-<br>
 ✔️ Site de caráter institucional<br>
 ✔️ Github<br>
 <br>
@@ -52,12 +58,6 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 • Sprint 3 - 16/05 a 05/06 
  - [ ] Documentação Github
  - [ ] Manutenção e ajustes finais
- 
-<h2>Conhecimento exigido 📚</h2><br>
-
-✔️ Processo de Desenvolvimento Ágil<br>
-✔️ Lógica de programação<br>
-✔️ Controle de versão<br>
 <br>
 <br>
 <h2>Visual do Site 💻</h2>
@@ -65,10 +65,9 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Reuniões: Discord e WhatsApp <br>
 • Back-end: Python, Flask<br>
 • Front-end: HTML, CSS, JavaScript, Figma <br>
-• Ferramentas: Github, Visual Studio Code, Figma e Canva <br>
+• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp, Figma e Canva <br>
 <br>
 <br>
 <div style="display: inline_blocks"><br>
@@ -89,6 +88,7 @@ Temos como objetivo desenvolver uma website com o foco na classificação de vag
 <br>
 <br>
 <h2>Burndown 📈📉 </h2> <br>
+<h3>Burndown - Sprint 1 </h3> <br>
 <img align="center"src="/img/burndown.png"/>  
 <br>
 <br>
