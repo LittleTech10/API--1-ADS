@@ -59,8 +59,10 @@ Requisitos Não Funcionais:<br>
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "100" width= "100"/>
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height= "100" width= "100"/> 
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "100" width= "100"/>         
-                 
-          
+ <img align="center"src="/img/whatsapp.png"/ height= "100" width= "100"/>                 
+ <img align="center"src="/img/github.png"/ height= "100" width= "100"/>    
+ <img align="center"src="/img/js.png"/ height= "100" width= "100"/>  
+ 
 <br>
 <h2>Backlog 📊 </h2>
 <br>
