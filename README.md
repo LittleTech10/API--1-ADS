@@ -44,7 +44,7 @@ Requisitos Não Funcionais:<br>
 - [ ] Controle de versão<br>
 <br>
 <br>
-<h2>Visual do Site 🗺️</h2>
+<h2>Visual do Site 💻</h2>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
