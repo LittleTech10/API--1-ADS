@@ -72,6 +72,7 @@ Requisitos Não Funcionais:<br>
 <br>
 <br>
 <h2>Burndown 📊 </h2> <br>
+ <img align="center"src="/img/burndown.png"/>  
 <br>
 <br>
 <h2>Equipe 🎓</h2>
