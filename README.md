@@ -4,7 +4,7 @@ Aprendizado por Projeto Integrado do 1º semestre da FATEC.
 
 
 <h2> O Projeto 💼 </h2>
-Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente  TI  e  configurar  métricas  para  pontos  como  tipos  de  conhecimento,  habilidades  e competências.  Visualmente  deverá  ter  informações  do  tipo  estratégicas  (gráficos),  facilidades  de usabilidade  e operação bem como toda a documentação de desenvolvimento no GitHub com todos os processos necessários para a fidelização do cliente. 
+Desenvolver um sistema web para automatizar o processo de catalogar vagas de diversas profissões principalmente  TI  e  configurar  métricas  para  pontos  como  tipos  de  conhecimento,  habilidades  e competências.  Visualmente  deverá  ter  informações  do  tipo  estratégicas,  facilidades  de usabilidade  e operação bem como toda a documentação de desenvolvimento no GitHub com todos os processos necessários para a fidelização do cliente. 
 
 
 <h2>Objetivos 📌</h2>
