@@ -56,6 +56,7 @@ Requisitos Não Funcionais:<br>
 <div style="display: inline_blocks"><br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= "100" width= "100"/> 
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= "100" width= "100"/>
+  <img align="center"src="/img/bootstrap.png"/ height= "90" width= "90"/>    
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "100" width= "100"/>
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height= "100" width= "100"/> 
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "100" width= "100"/>         
