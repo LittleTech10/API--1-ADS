@@ -76,7 +76,7 @@ Requisitos Não Funcionais:<br>
 <img align="center"src="/img/burndown.png"/>  
 <br>
 <br>
-<h2>Equipe 🎓</h2>
+<h2>Equipe 👾</h2>
  
  Nome|Função|Github|Linkedin 
 -----|------|------|---------
