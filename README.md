@@ -29,12 +29,13 @@ Requisitos Não Funcionais:<br>
 <br>
 <br>
 <h2>Cronograma das Sprints 📆</h2><br>
-
-- [ ] Sprint 1 - 25/03 -14/04 <br>
-- [ ] Sprint 2 - 15/04 -25/04 <br>
-- [ ] Sprint 3 - 16/05 - 05/06 <br>
 <br>
 <img align="center" src="/img/Cronograma das prints - png.png"/>
+<br>
+
+- [ ] Sprint 1 - 25/03 -14/04 <br>
+- [ ] Sprint 2 - 25/04 -15/05 <br>
+- [ ] Sprint 3 - 16/05 - 05/06 <br>
 <br>
 <h2>Conhecimento exigido 📚</h2><br>
 
@@ -66,13 +67,13 @@ Requisitos Não Funcionais:<br>
  <img align="center"src="/img/js.png"/ height= "80" width= "80"/>  
  
 <br>
-<h2>Backlog 📈</h2>
+<h2>Backlog 📊</h2>
 <br>
 <img src="/img/Prioridade_Atividades.jpeg"/>
 <br>
 <br>
-<h2>Burndown 📊 </h2> <br>
- <img align="center"src="/img/burndown.png"/>  
+<h2>Burndown 📈📉 </h2> <br>
+<img align="center"src="/img/burndown.png"/>  
 <br>
 <br>
 <h2>Equipe 🎓</h2>
