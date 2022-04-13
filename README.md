@@ -11,7 +11,7 @@ Desenvolver um sistema web para automatizar o processo de catalogar vagas de div
 Temos como objetivo desenvolver uma website com o foco na classificação de vagas de emprego e cursos tendo como prioridade vagas e cursos na área de T.I., visando facilitar a procura de possíveis usuários pelas oportunidades certas. 
 <br>
 <br>
-• Requisitos Funcionais:
+<h3> • Requisitos Funcionais: </h3>
 <br>
 <br>
 O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
@@ -24,7 +24,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 ✔️ Busca de vagas e cursos por sua localização <br>
 <br>
 <br>
-• Requisitos Não Funcionais: 
+<h3> • Requisitos Não Funcionais: </h3> 
 <br>
 <br>
 ✔️ Linguagem Python (Requisito Fatec)<br>
@@ -40,7 +40,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <img align="center" src="/img/Cronograma das prints - png.png"/>
 
-• Sprint 1 - 25/03 a 14/04 
+<h3> • Sprint 1 - 25/03 a 14/04 </h3>
+
  - [ ] Wireframe
  - [ ] Página Home
  - [ ] Página Vagas em T.I.
@@ -48,14 +49,16 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  - [ ] Página Métricas
  - [ ] Páginas de Localização
 
-• Sprint 2 - 25/04 a 15/05 
+<h3> • Sprint 2 - 25/04 a 15/05 </h3>
+
  - [ ] Menu de vagas por região e nível profissional
  - [ ] Barra de pesquisa
  - [ ] Framework Bootstrap
  - [ ] Framework Flask
  - [ ] Implementação do Java
 
-• Sprint 3 - 16/05 a 05/06 
+<h3> • Sprint 3 - 16/05 a 05/06 </h3>
+
  - [ ] Documentação Github
  - [ ] Manutenção e ajustes finais
 <br>
@@ -73,7 +76,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <div style="display: inline_blocks"><br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= "100" width= "100"/> 
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= "100" width= "100"/>
-  <img align="center"src="/img/bootstrap.png"/ height= "80" width= "80"/>    
+ <img align="center"src="/img/bootstrap.png"/ height= "80" width= "80"/>    
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "90" width= "90"/>
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height= "80" width= "80"/> 
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "80" width= "80"/>         
