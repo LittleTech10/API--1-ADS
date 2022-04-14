@@ -64,9 +64,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>
-
-
-
+<p  align="center" >
+ <img height= "550" width= "800" src="/gif/Gif apresentação do site.gif" />  
+</p>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
