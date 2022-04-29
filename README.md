@@ -46,8 +46,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 ✔️ Página Home <br>
 ✔️ Página Vagas em T.I. <br>
 ✔️ Página de Cursos em T.I. <br>
-✔️ Página Métricas
-✔️ Páginas de Localização
+✔️ Página Métricas <br>
+✔️ Páginas de Localização <br>
 
 <h3> • Sprint 2 - 25/04 a 15/05 </h3>
 
