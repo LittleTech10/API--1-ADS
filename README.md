@@ -1,6 +1,6 @@
 # API: 1º ADS - Little Tech
 
-Aprendizado por Projeto Integrado do 1º semestre da FATEC.
+Aprendizado por Projeto Integrado do 1º semestre da Faculdade de Tecnologia de São José dos Campos - "Professor Jessen Vidal".
 
 
 <h2> O Projeto 💼 </h2>
