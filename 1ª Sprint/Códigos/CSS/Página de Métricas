@@ -1,1 +1,142 @@
+@font-face{
+    font-family: love;
+    src: url('Fontes/LilitaOne-Regular.ttf') format('truetype');
+}
 
+@font-face{
+    font-family: ArialBold;
+    src: url('Fontes/ARLRDBD.TTF') format('truetype');
+}
+
+
+img{
+    margin-left: 8%;
+}
+
+
+#nav{
+    font-family: Helvetica;
+    font-weight: bold;
+    background-color: #2F2BD4;
+    height: 70px;
+}
+
+ul li{
+    display:inline;
+}
+
+#a1{
+    color: white;
+    text-decoration: none;
+    padding: 1.8%;
+    position:absolute;
+    margin-left: -1%;
+    font-size: 164%;
+}
+
+#a2{
+    color: white;
+    text-decoration: none;
+    padding: 1.8%;
+    position:absolute;
+    margin-left: 8%;
+    font-size: 164%;
+}
+
+#a3{
+    color: white;
+    text-decoration: none;
+    padding: 1.8%;
+    position:absolute;
+    margin-left: 31%;
+    font-size: 164%;
+}
+
+#a4{
+    color: white;
+    text-decoration: none;
+    padding: 1.8%;
+    position:absolute;
+    margin-left: 61%;
+    font-size: 164%;
+}
+
+#a5{
+    color: white;
+    text-decoration: none;
+    padding: 1.8%;
+    position:absolute;
+    margin-left: 76%;
+    font-size: 164%;
+}
+
+#a1:hover{font-size: 180%}
+#a2:hover{font-size: 170%}
+#a3:hover{font-size: 170%}
+#a4:hover{font-size: 180%}
+#a5:hover{font-size: 180%}
+
+#txt{
+    background-image: url("imagens/métricas.jpg");
+    height: 700px;
+    opacity: 0.8;
+}
+
+h2{
+    position: absolute;
+    font-family: Love;
+    font-weight: normal;
+    margin-left: 5%;
+    margin-top: 6%;
+    font-size: 300%;
+    color: blue;
+}
+
+#p1{
+    position:absolute;
+    font-family: ArialBold;
+    text-align: justify;
+    margin-top: 26%;
+    margin-left: 6%;
+    margin-right: 48%;
+    font-size: 155%;
+}
+
+#p2{
+    position:absolute;
+    font-family: ArialBold;
+    text-align: justify;
+    margin-top: 42%;
+    margin-left: 6%;
+    margin-right: 48%;
+    font-size: 155%;
+}
+
+#graph{
+    width: 49%;
+    height: 100px;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#graph2 {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#graph3 {
+    width: 49%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#graph4 {
+    width: 50%;
+    min-width: 250px;
+    display: inline-block;
+    vertical-align: top;
+}
