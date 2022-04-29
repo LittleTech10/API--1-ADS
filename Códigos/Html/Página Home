@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Início</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <img src="imagens/Logo.jpeg" alt="Logo">
+
+    <div id="nav">
+        <ul class="h03">
+            <li><a id="a1" href="index.html">INÍCIO</a></li>
+            <li><a id="a2" href="Vagas de TI.html">VAGAS DE EMPREGO</a></li>
+            <li><a id="a3" href="Cursos de TI.html">CURSOS E CERTIFICAÇÕES</a></li>
+            <li><a id="a4" href="metricas.html">MÉTRICAS</a></li>
+            <li><a id="a5" href="Localizacao.html">LOCALIZAÇÃO</a></li>
+        </ul>
+    </div>
+
+    <br><br><br><br><br>
+
+    <div id="txt">
+        <h2 id="h02">Precisando de emprego, estágio<br> ou até experiência no mercado?</h2>
+
+        <p id="p1"> A Emprega Selectus é a solução. Disponibilizamos diversas vagas na área de informática
+        e T.I, oferecemos também vagas em diversos ambientes que envolvam a computação.</p>
+        
+        <p id="p2">Dentro do nosso site você encontrará as melhores oportunidades entre as melhores
+        empresas do país.</p>
+        
+        <p id="p3"> Vagas excelentes por toda a região metropolitana.</p>
+
+        <p id="p4"> Não perca essa chance, mude a sua vida, forje o seu futuro!</p>
+
+        <div id="s1">
+            <a href="Vagas de TI.html"><span id="s2"><h1 class="h01">Analista de Dados</h1></span></a>
+            <a href="Vagas de TI.html"><span id="s3"><h1 id="h08">Auxiliar de TI</h1></span></a>
+            <a href="Vagas de TI.html"><span id="s4"><h1 id="h07">Desenvolvedor Oracle</h1></span></a>
+            <a href="Vagas de TI.html"><span id="s5"><h1 id="h05">Seu futuro agora!</h1></span></a>
+        </div>
+    </div>
+</body>
+</html>
