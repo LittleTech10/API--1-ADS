@@ -38,7 +38,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <h2>Cronograma das Sprints 📆</h2>
 <br>
 <br>
-<img align="center" src="/Arquivos da API/Imagens/Cronograma das prints - png.png"/>
+<img align="center" src="1ª Sprint/Arquivos da API/Imagens/Cronograma das prints - png.png"/>
 
 <h3> • Sprint 1 - 25/03 a 14/04 </h3>
 
@@ -65,7 +65,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Visual do Site 💻</h2><br>
 <p  align="center" >
- <img height= "550" width= "800" src="/Arquivos da API/Gif's/Gif apresentação do site.gif" />  
+ <img height= "550" width= "800" src="1ª Sprint//Arquivos da API/Gif's/Gif apresentação do site.gif" />  
 </p>
 <h3 align="center"> Link para o vídeo do projeto: https://youtu.be/0ZtH8ocnrT4 </h3>
 <br>
@@ -80,27 +80,27 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <div style="display: inline_blocks"><br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= "100" width= "100"/> 
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= "100" width= "100"/>
- <img align="center"src="/Arquivos da API/Imagens/bootstrap.png"/ height= "80" width= "80"/>    
+ <img align="center"src="1ª Sprint//Arquivos da API/Imagens/bootstrap.png"/ height= "80" width= "80"/>    
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "90" width= "90"/>
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height= "80" width= "80"/> 
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "80" width= "80"/>         
- <img align="center"src="/Arquivos da API/Imagens/whatsapp.png"/ height= "80" width= "80"/>                 
- <img align="center"src="/Arquivos da API/Imagens/discord.png"/ height= "80" width= "80"/>    
- <img align="center"src="/Arquivos da API/Imagens/js.png"/ height= "80" width= "80"/>  
+ <img align="center"src="1ª Sprint//Arquivos da API/Imagens/whatsapp.png"/ height= "80" width= "80"/>                 
+ <img align="center"src="1ª Sprint//Arquivos da API/Imagens/discord.png"/ height= "80" width= "80"/>    
+ <img align="center"src="1ª Sprint//Arquivos da API/Imagens/js.png"/ height= "80" width= "80"/>  
  
 <br>
 <h2>Backlog 📊</h2><br>
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
 <br>
-<img align="center" src="/Arquivos da API/Imagens/Prioridade_Atividades.jpeg"/>
+<img align="center" src="1ª Sprint//Arquivos da API/Imagens/Prioridade_Atividades.jpeg"/>
 <br>
 <br>
 <h2>Burndown 📈📉 </h2> <br>
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
 <h3>Burndown - Sprint 1 </h3> <br>
-<img align="center" src="/Arquivos da API/Imagens/burndown.png"/>  
+<img align="center" src="1ª Sprint//Arquivos da API/Imagens/burndown.png"/>  
 <br>
 <br>
 <h2>Equipe 👾</h2>
