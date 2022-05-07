@@ -72,9 +72,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Back-end: Python, Flask<br>
-• Front-end: HTML, CSS, JavaScript, Figma <br>
-• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp, Figma e Canva <br>
+• Back-end: Python, Flask.<br>
+• Front-end: HTML, CSS, JavaScript, Figma.<br>
+• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp, Figma e Canva.<br>
 <br>
 <br>
 <div style="display: inline_blocks"><br>
