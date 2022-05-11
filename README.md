@@ -51,11 +51,11 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 
 <h3> • Sprint 2 - 25/04 a 15/05 </h3>
 
- - [ ] Menu de vagas por região e nível profissional
- - [ ] Barra de pesquisa
- - [ ] Framework Bootstrap
- - [ ] Framework Flask
- - [ ] Implementação do Java
+✔️ Menu de vagas por região e nível profissional
+✔️ Barra de pesquisa
+✔️ Framework Bootstrap
+✔️ Framework Flask
+✔️ Implementação do Java
 
 <h3> • Sprint 3 - 16/05 a 05/06 </h3>
 
