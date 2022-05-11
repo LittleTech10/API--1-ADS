@@ -61,7 +61,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 • Back-end: Python, Flask, Javascript.<br>
 • Front-end: HTML, CSS, Bootstrap, Javascript.<br>
-• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp.<br>
+• Ferramentas: Github, Visual Studio Code, Discord.<br>
 <br>
 <br>
 <div style="display: inline_blocks"><br>
