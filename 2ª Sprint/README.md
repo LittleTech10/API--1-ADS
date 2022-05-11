@@ -38,16 +38,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <h2>Cronograma da 2ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/cronograma.jpg"/>
-
-<h3> • Sprint 1 - 25/03 a 14/04 </h3>
-
-✔️ Wireframe <br>
-✔️ Página Home <br>
-✔️ Página Vagas em T.I <br>
-✔️ Página de Cursos em T.I <br>
-✔️ Página Métricas <br>
-✔️ Páginas de Localização <br>
+<img align="center" src="Imagens/sprint2.jpg"/>
 
 <h3> • Sprint 2 - 25/04 a 15/05 </h3>
 
@@ -57,12 +48,6 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 ✔️ Framework Flask <br>
 ✔️ Backend com Javascript <br>
 
-<h3> • Sprint 3 - 16/05 a 05/06 </h3>
-
-☐ Documentação final via Github <br>
-☐ Ajustes no site <br>
-☐ Remodelagem da página de localização <br>
-☐ Catálogo de vagas por região <br>
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>
@@ -76,16 +61,14 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 • Back-end: Python, Flask, Javascript.<br>
 • Front-end: HTML, CSS, Bootstrap, Javascript.<br>
-• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp, Figma e Canva.<br>
+• Ferramentas: Github, Visual Studio Code, Discord, WhatsApp.<br>
 <br>
 <br>
 <div style="display: inline_blocks"><br>
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= "100" width= "100"/> 
  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= "100" width= "100"/>
  <img align="center"src="Imagens/bootstrap.png" height= "80" width= "80"/>    
- <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "90" width= "90"/>
- <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height= "80" width= "80"/> 
- <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "80" width= "80"/>         
+ <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "90" width= "90"/>     
  <img align="center"src="Imagens/whatsapp.png" height= "80" width= "80"/>                 
  <img align="center"src="Imagens/discord.png" height= "80" width= "80"/>    
  <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>  
