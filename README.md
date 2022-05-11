@@ -88,7 +88,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height= "80" width= "80"/>         
  <img align="center"src="Imagens/whatsapp.png" height= "80" width= "80"/>                 
  <img align="center"src="Imagens/discord.png" height= "80" width= "80"/>    
- <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>  
+ <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/flask.png" height= "80" width= "80"/> 
  
 <br>
 <h2>Backlog 📊</h2><br>
