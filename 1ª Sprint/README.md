@@ -54,7 +54,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <p  align="center" >
  <img height= "550" width= "800" src="GIF/apresen.gif" />  
 </p>
-<h3 align="center"> Link para o vídeo do projeto: <a href="https://youtu.be/0ZtH8ocnrT4" target="blank"> </h3>
+<h3 align="center"> Link para o vídeo do projeto: https://youtu.be/0ZtH8ocnrT4 </h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
