@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Cursos </title>
+  <link rel="stylesheet" href="CSS/bootstrap.min.css">
+</head>
+<body>
+  <nav style="background-color: #2F2BD4" class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="HOME.html">Empregus Selectus</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="HOME.html">Ínicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="VAGAS.html">Vagas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="CURSOS.html">Cursos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="MÉTRICAS.html">Métricas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="LOCALIZAÇÃO.html">Localização</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input id= "navegar" class="form-control me-2" type="search" placeholder="Digite aqui..." aria-label="Digite aqui...">
+          <a onClick="pesquise_cursos()" class="btn btn-outline-light border" type="submit">Buscar</a>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <div style="background-color: rgb(36,33,36)" class="container-fluid">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-9 mt-5 mb-5">
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active" data-bs-interval="3000">
+                <img src="IMG/cursoscarrossel.png" class="d-block w-100 img-fluid img-thumbnail opacity-50" alt="#">
+                <div class="carousel-caption d-none d-md-block">
+                  <h4 class="text-light fs-3"><strong> CURSOS PERTO DE VOCÊ! </strong></h4>
+                  <p class="h4 text-light"><strong> Transforme sua carreira com um curso certificado! </strong> </p>
+                </div>
+              </div>
+              <div class="carousel-item" data-bs-interval="3000">
+                <img src="IMG/cursoscarrossel2.png" class="d-block w-100 img-fluid img-thumbnail opacity-50" alt="#">
+                <div class="carousel-caption d-none d-md-block">
+                  <h4 class="text-light fs-3"><strong> AUMENTE SEU CONHECIMENTO!</strong></h4>
+                  <p class="h4 text-light"><strong> Atualize seu repertório e se torne um profissional competente!</strong> </p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/ads2.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista de Sistemas</strong></h5>
+            <p class="card-text h6">Curse Análise e Desenvolvimento de Sistemas na IFSP Jacareí.</p>
+            <a href="https://jcr.ifsp.edu.br/index.php/ensino-superior/tecnologo-em-ads" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/hardware.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Hardware</strong></h5>
+            <p class="card-text h6">Curse Arquitetura de Computadores no CENAIC de Jacareí.</p>
+            <a href="https://www.cenaic.com.br/curso-de-hardware" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/suporteemredes.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Suporte em Redes</strong></h5>
+            <p class="card-text h6">Curse Suporte em Redes de informática no CENAIC de Jacareí.</p>
+            <a href="https://www.cenaic.com.br/curso-suporte-em-redes" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/informaticaa.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Técnico em Informática</strong></h5>
+            <p class="card-text h6">Curse Técnico em T.I no Instituto de Tecnologia de Jacareí.</p>
+            <a href="http://itj.g12.br/2021/informatica/" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/hardarerobótica.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Hardware e Robótica</strong></h5>
+            <p class="card-text h6">Curse Hardware e Robótica no instituto MicroCamp de Jacareí</p>
+            <a href="https://microcamp.com.br/curso/hardware-e-robotica/" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/gestãotec.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Gestão de T.I</strong></h5>
+            <p class="card-text h6">Curse Gestão de Tecnologia da Informação na Unopar Jacareí.</p>
+            <a href="https://www.guiadacarreira.com.br/faculdades/unopar/cursos/gestao-de-tecnologia-da-informacao/0143d689-0e17-4666-aa0f-4e211b20e98a" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/bancodedados.jpg.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Banco de Dados</strong></h5>
+            <p class="card-text h6">Curse Banco de Dados na FATEC de São José dos Campos.</p>
+            <a href="https://fatecsjc-prd.azurewebsites.net/curso-banco-de-dados.php" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/ciênciadacomp.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Ciências da computação</strong></h5>
+            <p class="card-text h6">Curse Ciências da computação na UNIFESP São José dos Campos.</p>
+            <a href="https://www.unifesp.br/campus/sjc/o-curso-bcc/apresentacao-bcc.html" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/ti.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Informática para Internet</strong></h5>
+            <p class="card-text h6">Curse Informática para Internet na ETEC São José dos Campos.</p>
+            <a href="https://www.cps.sp.gov.br/cursos-etec/informatica-para-internet/" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/ads1.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Análise de Sistemas</strong></h5>
+            <p class="card-text h6">Curse Análise e Desenvolvimento de Sistemas na Fatec SJC.</p>
+            <a href="https://fatecsjc-prd.azurewebsites.net/curso-analise-e-desenvolvimento-de-sistemas.php" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/multiplataforma.jpg.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Desenvolvimento de Software</strong></h5>
+            <p class="card-text h6">Curse Desenvolvimento de Software Multiplataforma na Fatec SJC.</p>
+            <a href="https://fatecsjc-prd.azurewebsites.net/curso-desenvolvimento-de-software-multiplataforma.php" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/tecnet.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Informática para a Internet</strong></h5>
+            <p class="card-text h6">Curse Técnico em Informática para a WEB no Senai São José dos Campos.</p>
+            <a href="https://saojosedoscampos.sp.senai.br/curso/92660/302/tecnico-de-informatica-para-internet" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/redesdecomp.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Redes de Computadores</strong></h5>
+            <p class="card-text h6">Curse Técnico em Redes de Computadores no Senai São José dos Campos.</p>
+            <a href="https://saojosedoscampos.sp.senai.br/curso/85673/302/tecnico-de-redes-de-computadores" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/tecjogos.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Programação de Jogos Digitais</strong></h5>
+            <p class="card-text h6">Curse Técnico em Programação de Jogos no Senac São José dos Campos.</p>
+            <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-programacao-de-jogos-digitais" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/compgraf.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Técnico em Computação Gráfica</strong></h5>
+            <p class="card-text h6">Curse Técnico em Computação Gráfica no Senac São José dos Campos.</p>
+            <a href="https://www.sp.senac.br/cursos-tecnicos/curso-tecnico-em-computacao-grafica" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="IMG/engeautomação.png" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Controle e Automação</strong></h5>
+            <p class="card-text h6">Curse Engenharia de Controle e Automação no IFSP São José dos Campos.</p>
+            <a href="https://sjc.ifsp.edu.br/index.php/superiores/eca" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br> <br> <br> <br> <br> <br> <br> <br>
+
+  <footer style="background-color: rgb(70,130,180);" class="text-center text-lg-start">
+    <section class="">
+      <div class="container text-center text-md-start mt-5">
+        <div class="row mt-3">
+          <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+            <h5 class="text-uppercase fw-bold mb-4 mt-4">
+              <i class="fas fa-gem me-3"></i>Little Tech
+            </h5>
+            <p class="h6">
+              A Empresa mais precisa e eficiente em catalogar páginas sobre vagas disponíveis em toda a região.
+            </p>
+          </div>
+          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              VAGAS EM GERAL
+            </h5>
+            <p class="h6">
+              <a href="#!" class="text-reset">Auxiliar de TI</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Analista de Tecnologia da Informação (Sênior)</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">
+                Suporte Técnico de TI</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Analista de Suporte em TI Júnior</a>
+            </p>
+          </div>
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              Cursos em geral
+            </h5> 
+            <p class="h6">
+              <a href="#!" class="text-reset">Análise e Desenvolvimento de Sistemas</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Banco de Dados</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Hardware</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Ciência da Computação</a>
+            </p>
+          </div>
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              Contato
+            </h5>
+            <p class="h6"><i class="fas fa-home me-3"></i> São José dos Campos, SP</p>
+            <p class="h6">
+              <i class="fas fa-envelope me-3"></i>
+              little.tech10@gmail.com
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="text-center p-4" style="background-color: rgb(65,105,225)">
+      © 2022 Copyright:
+      <a class="text-reset fw-bold" href="#">Empregus Selectus</a>
+    </div>
+  </footer>
+
+  <script src="JS/bootstrap.bundle.min.js"></script>
+  <script src="js/cursos.js"></script>
+    
+</body>
+</html>
