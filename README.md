@@ -44,23 +44,25 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 
 ✔️ Wireframe <br>
 ✔️ Página Home <br>
-✔️ Página Vagas em T.I. <br>
-✔️ Página de Cursos em T.I. <br>
+✔️ Página Vagas em T.I <br>
+✔️ Página de Cursos em T.I <br>
 ✔️ Página Métricas <br>
 ✔️ Páginas de Localização <br>
 
 <h3> • Sprint 2 - 25/04 a 15/05 </h3>
 
-✔️ Menu de vagas por região e nível profissional <br>
-✔️ Barra de pesquisa <br>
-✔️ Framework Bootstrap <br>
+✔️ Remodelagem do site com o Framework Bootstrap <br>
+✔️ Aperfeiçoamento no catálogo de vagas <br>
+✔️ Barra de Pesquisa <br>
 ✔️ Framework Flask <br>
-✔️ Implementação do Java <br>
+✔️ Backend com Javascript <br>
 
 <h3> • Sprint 3 - 16/05 a 05/06 </h3>
 
- - [ ] Documentação via Github
- - [ ] Manutenção e ajustes finais
+[] Documentação final via Github <br>
+[] Ajustes no site <br>
+[] Remodelagem da página de localização <br>
+[] Catálogo de vagas por região <br>
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>
@@ -72,8 +74,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Back-end: Python, Flask.<br>
-• Front-end: HTML, CSS, JavaScript, Figma.<br>
+• Back-end: Python, Flask, Javascript.<br>
+• Front-end: HTML, CSS, Bootstrap, Javascript.<br>
 • Ferramentas: Github, Visual Studio Code, Discord, WhatsApp, Figma e Canva.<br>
 <br>
 <br>
@@ -93,7 +95,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  O product backlog é uma lista ordenada que tem como função documentar de forma clara todos os requisitos do desenvolvimento de um projeto. Itens que precisem de maior refinamento geralmente têm uma importância menor e ficam mais abaixo no Product Backlog.  
 <br>
 <br>
-<img align="center" src="1ª Sprint//Arquivos da API/Imagens/Prioridade_Atividades.jpeg"/>
+<img align="center" src="1ª Sprint//Arquivos da API/Imagens/backlog.jpg"/>
 <br>
 <br>
 <h2>Burndown 📈📉 </h2> <br>
