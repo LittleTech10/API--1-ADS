@@ -106,6 +106,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <h3>Burndown - Sprint 1 </h3> <br>
 <img align="center" src="Imagens/burndown.png"/>  
 <br>
+<h3>Burndown - Sprint 2 </h3> <br>
+<img align="center" src="Imagens/burn2.png"/>  
+<br>
 <br>
 <h2>Equipe 👾</h2>
  

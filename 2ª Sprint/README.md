@@ -87,7 +87,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  O Sprint Burndown Chart mostra a comparação entre o trabalho estimado inicialmente no Sprint Planning Meeting com a quantidade restante estimada de trabalho.
 <br>
 <h3>Burndown - Sprint 2 </h3> <br>
-<img align="center" src="Imagens/burndown.png"/>  
+<img align="center" src="Imagens/burn2.png"/>  
 <br>
 <br>
 <h2>Equipe 👾</h2>
