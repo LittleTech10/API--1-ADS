@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> Vagas </title>
+  <link rel="stylesheet" href="/static/CSS/bootstrap.min.css">
+</head>
+<body>
+  <nav style="background-color: #2F2BD4" class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/home">Empregus Selectus</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/home">Ínicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/vagas">Vagas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/cursos">Cursos</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/métricas">Métricas</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="/localização">Localização</a>
+          </li>
+        </ul>
+        <form class="d-flex">
+          <input id= "navegar" class="form-control me-2" type="search" placeholder="Digite aqui..." aria-label="Digite aqui...">
+          <a onClick="pesquise_vagas()" class="btn btn-outline-light border" type="submit">Buscar</a>
+        </form>
+      </div>
+    </div>
+  </nav>
+  <div style="background-color: rgb(36,33,36)" class="container-fluid">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-9 mt-5 mb-5">
+          <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+              <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active" data-bs-interval="3000">
+                <img src="/static/IMG/carrosel1 vaga.jpg" class="d-block w-100 img-fluid img-thumbnail opacity-50" alt="#">
+                <div class="carousel-caption d-none d-md-block">
+                  <h4 class="text-light fs-3"><strong> CONFIRA LOGO ABAIXO O NOSSO CATÁLOGO DE VAGAS!</strong></h4>
+                  <p class="h4 text-light"><strong> Escolha a vaga que mais se adapte as suas necessidades!</strong> </p>
+                </div>
+              </div>
+              <div class="carousel-item" data-bs-interval="3000">
+                <img src="/static/IMG/carrosel2 vaga.jpg" class="d-block w-100 img-fluid img-thumbnail opacity-50" alt="#">
+                <div class="carousel-caption d-none d-md-block">
+                  <h4 class="text-light fs-3"><strong> VAGAS DE EMPRESAS RENOMADAS NO MERCADO!</strong></h4>
+                  <p class="h4 text-light"><strong> Oferecemos vagas de grandes empresas, para diversas áreas.</strong> </p>
+                </div>
+              </div>
+              <div class="carousel-item" data-bs-interval="3000">
+                <img src="/static/IMG/carrosel3 vaga.jpg" class="d-block w-100 img-fluid img-thumbnail opacity-50" alt="#">
+                <div class="carousel-caption d-none d-md-block">
+                  <h4 class="text-light fs-3"><strong> SALÁRIOS E CARGAS HORÁRIAS QUE TE BENEFICIAM!</strong></h4>
+                  <p class="h4 text-light"><strong> Vagas com salários e horários ajustados para você!</strong> </p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card 1.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista de T.I</strong></h5>
+            <p class="card-text h6">Trabalhe na Kaa, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://www.bne.com.br/vaga-de-emprego-na-area-informatica-em-sao-jose-dos-campos-sp/analista-de-tecnologia-da-informacao/2637112" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card 2.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Desenvolvedor</strong></h5>
+            <p class="card-text h6">Trabalhe na GSW, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://www.bne.com.br/vaga-de-emprego-na-area-informatica-em-sao-jose-dos-campos-sp/desenvolvedor/2958484" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card 3.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Programador</strong></h5>
+            <p class="card-text h6">Trabalhe na DataInfo, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://www.bne.com.br/vaga-de-emprego-na-area-informatica-em-sao-jose-dos-campos-sp/programador/2876933" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card4.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Auxiliar de T.I</strong></h5>
+            <p class="card-text h6">Trabalhe na SHTI Soluções, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.hacendo.com/vaga/127624767/auxiliar-ti-sao-jose-dos-campos/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card5.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista de Tecnologia</strong></h5>
+            <p class="card-text h6">Trabalhe na EMBRAER, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.jobauk.com/jobs/172398?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card6.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista De Suporte Júnior</strong></h5>
+            <p class="card-text h6">Trabalhe na Empresa CONFIDENCIAL por R$ 2.000, em São José dos Campos, horário a definir com a empresa.</p>
+            <a href="https://www.infojobs.com.br/vaga-de-analista-suporte-junior-n-em-sao-paulo__7950715.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=orga" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card7.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Desenvolvedor Oracle</strong></h5>
+            <p class="card-text h6">Trabalhe na DataInfo, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://datainfo.gupy.io/job/eyJqb2JJZCI6MTU0MTgzMiwic291cmNlIjoiZ3VweV9wdWJsaWNfcGFnZSJ9?jobBoardSource=gupy_public_page" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card8.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Gerente de E-commerce</strong></h5>
+            <p class="card-text h6">Trabalhe no Piratininga LTDA , em São José dos Campos, salário mensal e horário a definir com a empresa.</p>
+            <a href="https://www.catho.com.br/vagas/gerente-de-e-commerce/20492813/?origem_apply=busca-de-vagas&entrada_apply=direto" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card9.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Administrador De Sistemas</strong></h5>
+            <p class="card-text h6">Trabalhe na SONDA IT por R$ 5.000, em São José dos Campos, horário a definir com a empresa contratante.</p>
+            <a href="https://www.infojobs.com.br/vaga-de-administrador-sistemas-sao-jose-campos-em-sao-paulo__7985804.aspx" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card10.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Assistente de Suporte Técnico</strong></h5>
+            <p class="card-text h6">Trabalhe na Cartórios, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.indeed.com/ver-emprego?jk=f426db29a4623d4e&q=Ti&l=S%C3%A3o+Jos%C3%A9+dos+Campos,+SP&tk=1g1tqqpo0q698800&from=web&advn=7364190355354908&adid=387557105&ad=-6NYlbfkN0CUBH_JlgnaDrJMBOzeHUFe2zXaZ1hmRyCsKWv4X6IRptkhWVaKBI0_o93DhmIbIWZW7LC0rb70gep3aEjPk-bcvvDWa1OUWBsR-4-PEXDZTrNU8OkVuxS-rU5cmYdUgsizw27wrvzHzoUZ3wSrHrbHbYk9W7M5CyEk0oM5UNSTx-l7iw9bl9a4LC_OFqL_seJUDcZAqxUekL1wLAeXUtldXBQoQb-df5vv-ci6Ze4Mf1c4G880Be4tqTrcFD2V_Jd76a4MO0ytvVmUO0lMoDYeg30LmZyt9QwNoBIii3cz5tVUXhauSC1LDOy9W3K44dyF1Jda8H-si6CA6AOjUO3u-Kd7kWytBdIA4852FwjQ_ep-dE_oez6E&pub=4a1b367933fd867b19b072952f68dceb&vjs=3" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card11.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Desenvolvedor de Sistemas</strong></h5>
+            <p class="card-text h6">Trabalhe como no Labore do Vale, em São José dos Campos, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://jobs.quickin.io/laboredovale/jobs/62193522ed4d750013139c93?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card12.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista de projetos em TI&C</strong></h5>
+            <p class="card-text h6">Trabalhe como na OnSet Tecnologia Ltda, em São José dos Campos, salário mensal e horário a definir com a empresa.</p>
+            <a href="https://br.linkedin.com/jobs/view/analista-de-projetos-em-ti-c-at-onset-tecnologia-ltda-3012985790?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+        <br> <br> <br> <br>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card13.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Suporte Técnico de TI</strong></h5>
+            <p class="card-text h6">Trabalhe na NobeTech, em Jacareí, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://ms-my.facebook.com/nubetechbr/posts/353273069960008" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card14.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Engenheiro de Sistemas</strong></h5>
+            <p class="card-text h6">Trabalhe na People Talent, em Jacareí, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.jobrapido.com/jobpreview/116031096?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card15.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista de Sistemas</strong></h5>
+            <p class="card-text h6">Trabalhe na Empresa CONFIDENCIAL por tempo integral, em Jacareí, salário mensal a definir com a empresa contratante.</p>
+            <a href="https://empregos.listapa.com.br/detalhe-vaga-de-emprego/3812360/analista-de-sistemas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card16.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Especialista de Cybersecurity</strong></h5>
+            <p class="card-text h6">Trabalhe na Ambev por tempo integral, em Jacareí, salário mensal a definir com a empresa contratante.</p>
+            <a href="https://br.linkedin.com/jobs/view/especialista-de-cybersecurity-at-ambev-3005541053?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card17.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Técnico de Suporte</strong></h5>
+            <p class="card-text h6">Trabalhe na Indra, em Jacareí, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.jobauk.com/jobs/198742?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card18.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Analista De Sistemas</strong></h5>
+            <p class="card-text h6">Trabalhe na Empresa CONFIDENCIAL, em Jacareí, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://www.catho.com.br/vagas/analista-de-sistemas/20295352/?origem_apply=busca-de-vagas&entrada_apply=direto" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card19.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Assistente de T.I</strong></h5>
+            <p class="card-text h6">Trabalhe na Ourho Connecta, em Jacareí, salário mensal e horário a definir com a empresa contratante.</p>
+            <a href="https://br.jooble.org/jdp/266808127915907342/Assistente-de-TI-Jacare%C3%AD%2C-SP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card20.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Instrutor De Informática</strong></h5>
+            <p class="card-text h6">Trabalhe na Empresa CONFIDENCIAL , em Jacareí, salário mensal e horário a definir com a empresa.</p>
+            <a href="https://www.infojobs.com.br/vaga-de-instrutor-informatica-em-sao-paulo__7953012.aspx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-4 mt-5">
+        <div style="border: 2px solid black" class="card">
+          <img src="/static/IMG/card21.jpg" class="card-img-top" alt="#">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Assistente de T.I</strong></h5>
+            <p class="card-text h6">Trabalhe na TEMPO RH por tempo integral, em Jacareí, salário a definir com a empresa contratante.</p>
+            <a href="https://www.glassdoor.com.br/job-listing/assistente-de-tecnologia-da-informa%C3%A7%C3%A3o-tempo-rh-JV_IC2464343_KO0,38_KE39,47.htm?jl=1007818763304&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic" target="blank"
+            class="btn btn-success mt-3 border">Comece Já!</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br> <br> <br> <br> <br> <br> <br> <br>
+
+  <footer style="background-color: rgb(70,130,180);" class="text-center text-lg-start">
+    <section class="">
+      <div class="container text-center text-md-start mt-5">
+        <div class="row mt-3">
+          <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+            <h5 class="text-uppercase fw-bold mb-4 mt-4">
+              <i class="fas fa-gem me-3"></i>Little Tech
+            </h5>
+            <p class="h6">
+              A Empresa mais precisa e eficiente em catalogar páginas sobre vagas disponíveis em toda a região.
+            </p>
+          </div>
+          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              VAGAS EM GERAL
+            </h5>
+            <p class="h6">
+              <a href="#!" class="text-reset">Auxiliar de TI</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Analista de Tecnologia da Informação (Sênior)</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">
+                Suporte Técnico de TI</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Analista de Suporte em TI Júnior</a>
+            </p>
+          </div>
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              Cursos em geral
+            </h5> 
+            <p class="h6">
+              <a href="#!" class="text-reset">Análise e Desenvolvimento de Sistemas</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Banco de Dados</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Hardware</a>
+            </p>
+            <p class="h6">
+              <a href="#!" class="text-reset">Ciência da Computação</a>
+            </p>
+          </div>
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4 mt-4">
+            <h5 class="text-uppercase fw-bold mb-4">
+              Contato
+            </h5>
+            <p class="h6"><i class="fas fa-home me-3"></i> São José dos Campos, SP</p>
+            <p class="h6">
+              <i class="fas fa-envelope me-3"></i>
+              little.tech10@gmail.com
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+    <div class="text-center p-4" style="background-color: rgb(65,105,225)">
+      © 2022 Copyright:
+      <a class="text-reset fw-bold" href="#">Empregus Selectus</a>
+    </div>
+  </footer>
+
+  <script src="/static/JS/bootstrap.bundle.min.js"></script>
+  <script src="/static/JS/vagas.js"></script>
+    
+</body>
+</html>
