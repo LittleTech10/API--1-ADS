@@ -51,8 +51,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>
+<h3>Página de Ínicio</h3> <br>
 <p  align="center" >
- <img height= "550" width= "800" src="1ª Sprint//Arquivos da API/Gif's/Gif apresentação do site.gif" />  
+ <img height= "550" width= "800" src="Imagens/inicio.gif" />  
 </p>
 <h3 align="center"> Link para o vídeo do projeto: https://youtu.be/0ZtH8ocnrT4 </h3>
 <br>
