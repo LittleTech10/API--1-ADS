@@ -55,7 +55,22 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/inicio.gif" />  
 </p>
-<h3 align="center"> Link para o vídeo do projeto: https://youtu.be/0ZtH8ocnrT4 </h3>
+<h3>Página de Vagas com barra de busca</h3> <br>
+<p  align="center" >
+ <img height= "550" width= "800" src="Imagens/vagas.gif" />  
+</p>
+<h3>Página de Cursos com barra de busca</h3> <br>
+<p  align="center" >
+ <img height= "550" width= "800" src="Imagens/curso.gif" />  
+</p>
+<h3>Página de Métricas</h3> <br>
+<p  align="center" >
+ <img height= "550" width= "800" src="Imagens/metricas.gif" />  
+</p>
+<h3>Página de Localização com vagas catalogadas por região</h3> <br>
+<p  align="center" >
+ <img height= "550" width= "800" src="Imagens/localizacao.gif" />  
+</p>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
