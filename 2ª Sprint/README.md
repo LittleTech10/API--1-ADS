@@ -54,19 +54,19 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <h3>Página de Ínicio</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/inicio.gif" />  
-</p>
+</p> <br>
 <h3>Página de Vagas com barra de busca</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/vagas.gif" />  
-</p>
+</p> <br>
 <h3>Página de Cursos com barra de busca</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/curso.gif" />  
-</p>
+</p> <br>
 <h3>Página de Métricas</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/metricas.gif" />  
-</p>
+</p> <br>
 <h3>Página de Localização com vagas catalogadas por região</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/localizacao.gif" />  
