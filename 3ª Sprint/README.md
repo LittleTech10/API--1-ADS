@@ -88,9 +88,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="Imagens/flask.png" height= "80" width= "80"/>
  <img align="center"src="Imagens/vscode.png" height= "80" width= "80"/> 
  <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
- <img align="center"src="Imagens/javaAPI.png" height= "80" width= "80"/>
- <img align="center"src="Imagens/requests.png" height= "80" width= "80"/>
  <img align="center"src="Imagens/beautiful.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/requests.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/javaAPI.png" height= "80" width= "80"/>
  
  
 <br>
