@@ -74,8 +74,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Back-end: Python, Flask, Javascript.<br>
-• Front-end: HTML, CSS, Bootstrap, Javascript.<br>
+• Back-end: Python, Flask, API: Maps JavaScript API, Javascript, Bibliotecas Python: Beautiful Soup, requests.<br>
+• Front-end: HTML, CSS, Bootstrap, Javascript, API: Maps JavaScript API.<br>
 • Ferramentas: Github, Visual Studio Code, Discord, Figma e Canva.<br>
 <br>
 <br>
@@ -90,7 +90,10 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>
  <img align="center"src="/Imagens/flask.png" height= "80" width= "80"/>
  <img align="center"src="/Imagens/github.png" height= "80" width= "80"/> 
- <img align="center"src="/Imagens/vscode.png" height= "80" width= "80"/> 
+ <img align="center"src="/Imagens/vscode.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/beautiful.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/requests.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/javaAPI.png" height= "80" width= "80"/>
  
 <br>
 <h2>Backlog 📊</h2><br>
@@ -108,6 +111,9 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h3>Burndown - Sprint 2 </h3> <br>
 <img align="center" src="Imagens/burn2.jpg"/>  
+<br>
+<h3>Burndown - Sprint 3 </h3> <br>
+<img align="center" src="Imagens/burn3.jpg"/>
 <br>
 <br>
 <h2>Equipe 👾</h2>
