@@ -59,7 +59,7 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 </p> <br>
 <h3>Página de Cursos com barra de busca e cursos catalogados automaticamente.</h3> <br>
 <p  align="center" >
- <img height= "550" width= "800" src="Imagens/curso.gif" />  
+ <img height= "550" width= "800" src="Imagens/cursos.gif" />  
 </p> <br>
 <h3>Página de Métricas.</h3> <br>
 <p  align="center" >
