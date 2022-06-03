@@ -59,10 +59,10 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 
 <h3> • Sprint 3 - 16/05 a 05/06 </h3>
 
-☐ Documentação final via Github <br>
-☐ Ajustes no site <br>
-☐ Remodelagem da página de localização <br>
-☐ Catálogo de vagas por região <br>
+✔️ Documentação final via Github <br>
+✔️ Ajustes no site <br>
+✔️ Remodelagem da página de localização <br>
+✔️ Catálogo de vagas por região <br>
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>

@@ -37,37 +37,35 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Cronograma da 3ª Sprint 📆</h2>
 <br>
-<br>
 <img align-center src="Imagens/sprint3.jpg"/>
 
-<h3> • Sprint 2 - 25/04 a 15/05 </h3>
+<h3> • Sprint 3 - 16/54 a 05/06 </h3>
 
-✔️ Remodelagem do site com o Framework Bootstrap <br>
-✔️ Aperfeiçoamento no catálogo de vagas <br>
-✔️ Barra de Pesquisa <br>
-✔️ Framework Flask <br>
-✔️ Backend com Javascript <br>
+✔️ Documentação final via Github <br>
+✔️ Ajustes no site <br>
+✔️ Remodelagem da página de localização <br>
+✔️ Catálogo de vagas por região <br>
 
 <br>
 <br>
 <h2>Visual do Site 💻</h2><br>
-<h3>Página de Ínicio</h3> <br>
+<h3>Página de Ínicio.</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/inicio.gif" />  
 </p> <br>
-<h3>Página de Vagas com barra de busca</h3> <br>
+<h3>Página de Vagas com barra de busca e vagas catalogadas automaticamente.</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/vagas.gif" />  
 </p> <br>
-<h3>Página de Cursos com barra de busca</h3> <br>
+<h3>Página de Cursos com barra de busca e cursos catalogados automaticamente.</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/curso.gif" />  
 </p> <br>
-<h3>Página de Métricas</h3> <br>
+<h3>Página de Métricas.</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/metricas.gif" />  
 </p> <br>
-<h3>Página de Localização com vagas catalogadas por região</h3> <br>
+<h3>Página de Localização com o local das empresas e filtro de busca por cidade.</h3> <br>
 <p  align="center" >
  <img height= "550" width= "800" src="Imagens/localizacao.gif" />  
 </p>
@@ -75,8 +73,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
 <br>
-• Back-end: Python, Flask, Javascript.<br>
-• Front-end: HTML, CSS, Bootstrap, Javascript.<br>
+• Back-end: Python, Flask, API: Maps JavaScript API, Javascript, Bibliotecas Python: Beautiful Soup, requests.<br>
+• Front-end: HTML, CSS, Bootstrap, Javascript, API: Maps JavaScript API.<br>
 • Ferramentas: Github, Visual Studio Code, Discord.<br>
 <br>
 <br>
@@ -89,7 +87,11 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>
  <img align="center"src="/Imagens/flask.png" height= "80" width= "80"/>
  <img align="center"src="/Imagens/vscode.png" height= "80" width= "80"/> 
- <img align="center"src="/Imagens/github.png" height= "80" width= "80"/> 
+ <img align="center"src="/Imagens/github.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/javaAPI.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/requests.png" height= "80" width= "80"/>
+ <img align="center"src="/Imagens/beautiful.png" height= "80" width= "80"/>
+ 
  
 <br>
 <h2>Backlog 📊</h2><br>
