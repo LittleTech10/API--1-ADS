@@ -84,13 +84,13 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  <img align="center"src="Imagens/bootstrap.png" height= "80" width= "80"/>    
  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height= "90" width= "90"/>                     
  <img align="center"src="Imagens/discord.png" height= "80" width= "80"/>    
- <img align="center"src="/Imagens/js.png" height= "80" width= "80"/>
- <img align="center"src="/Imagens/flask.png" height= "80" width= "80"/>
- <img align="center"src="/Imagens/vscode.png" height= "80" width= "80"/> 
- <img align="center"src="/Imagens/github.png" height= "80" width= "80"/>
- <img align="center"src="/Imagens/javaAPI.png" height= "80" width= "80"/>
- <img align="center"src="/Imagens/requests.png" height= "80" width= "80"/>
- <img align="center"src="/Imagens/beautiful.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/js.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/flask.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/vscode.png" height= "80" width= "80"/> 
+ <img align="center"src="Imagens/github.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/javaAPI.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/requests.png" height= "80" width= "80"/>
+ <img align="center"src="Imagens/beautiful.png" height= "80" width= "80"/>
  
  
 <br>
