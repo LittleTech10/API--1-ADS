@@ -35,10 +35,10 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
  • Github<br>
 <br>
 <br>
-<h2>Cronograma da 2ª Sprint 📆</h2>
+<h2>Cronograma da 3ª Sprint 📆</h2>
 <br>
 <br>
-<img align="center" src="Imagens/sprint2.jpg"/>
+<img align-center src="Imagens/sprint3.jpg"/>
 
 <h3> • Sprint 2 - 25/04 a 15/05 </h3>
 
