@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Métricas</title>
+    <link rel="stylesheet" href="/static/CSS/bootstrap.min.css">
+</head>
+<body>
+    <nav style="background-color: #2F2BD4" class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="/home">Empregus Selectus</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/home">Ínicio</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/vagas">Vagas</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/cursos">Cursos</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/métricas">Métricas</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/localização">Localização</a>
+                  </li>
+                </ul>
+              </div>
+        </div>
+    </nav>
+    <div style="background-color: rgb(36,33,36);" class="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 mt-5">
+                    <div style="border: 2px solid black;" class="card">
+                        <div class="card-body">
+                            <h1 class="fs-1"><strong>Confira as métricas sobre o <br> nosso site!</strong></h1>
+    
+                            <p class="h3 fs-4 mt-5"> A Empregus Selectus, separou alguns gráficos, relacionados ao nosso 
+                                catálogo de vagas e de cursos!</p>
+    
+                            <p class="h3 fs-4 mt-5"> Atráves dos gráficos apresentados abaixo, você conseguirá 
+                                verificar com mais rapídez e fluídez o nosso sistema de vagas, e a vaga que mais 
+                                se adapta as suas condições!<p>
+                        </div>
+                     </div>
+                </div>
+                <div class="col-md-6 mt-5">
+                    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active" data-bs-interval="3000">
+                            <img class="img-fluid img-thumbnail" src="/static/IMG/métricas1.jpg" class="d-block w-100" alt="img1">
+                          </div>
+                          <div class="carousel-item" data-bs-interval="3000">
+                            <img class="img-fluid img-thumbnail" src="/static/IMG/métricas2.jpg" class="d-block w-100" alt="img2">
+                          </div>
+                          <div class="carousel-item" data-bs-interval="3000">
+                            <img class="img-fluid img-thumbnail" src="/static/IMG/métricas3.jpg" class="d-block w-100" alt="img3">
+                          </div>
+                        </div>
+                      </div>
+                </div>
+            </div>
+            <br> <br>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mt-5">
+                <canvas class="vagas-sjc"></canvas>
+                <script src="/static/JS/Chart.min.js"></script>
+                <script>
+                 var ctx = document.getElementsByClassName("vagas-sjc");
+                 var chartGraph = new Chart(ctx, {
+                     type: 'bar',
+                     data: {
+                          labels: ["Analista", "Programador", "Desenvolvedor", "Auxiliar", "Consultor"],
+                         datasets: [{
+                             label: "Empregos em São José dos Campos",
+                             data: [6,3,2,3,3,0,1,2,3,4,5],
+                             borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+        
+                 options: {
+                     title:{
+                         display: true,
+                         fontSize: 25,
+                          text: "Empregos em São José dos Campos",
+                     }}
+                    }); 
+                </script>
+            </div>
+            <div class="col-md-6 mt-5">
+                <canvas class="cursos-sjc"></canvas>
+                <script src="/static/JS/Chart.min.js"></script>
+                <script>
+                    var ctx = document.getElementsByClassName("cursos-sjc");
+                    var chartGraph = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: ["Técnico em T.I", "Engenharia", "Analista em T.I", "Desenvolvedor"],
+                            datasets: [{
+                                label: "Cursos em São José dos Campos",
+                                data: [4,1,4,1,0,1,2,3,4,5],
+                                borderWidth: 6,
+                                borderColor: 'green',
+                                backgroundColor: 'lightgreen'}]},
+                                
+                
+                    options: {
+                        title:{
+                            display: true,
+                            fontSize: 25,
+                            text: "Cursos em São José dos Campos",
+                        }}
+                    }); 
+                </script>
+            </div>
+            <div class="col-md-6 mt-5">
+                <canvas class="vagas-jaca"></canvas>
+                <script src="/static/JS/Chart.min.js"></script>
+                <script>
+                    var ctx = document.getElementsByClassName("vagas-jaca");
+                    var chartGraph = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: ["Analista", "Programador", "Desenvolvedor", "Auxiliar", "Operador"],
+                            datasets: [{
+                                label: "Empregos em Jacareí",
+                                data: [2,1,1,6,2,0,2,3,5],
+                                borderWidth: 6,
+                                borderColor: 'green',
+                                backgroundColor: 'lightgreen'}]},
+            
+                    options: {
+                        title:{
+                            display: true,
+                            fontSize: 25,
+                            text: "Empregos em Jacareí",
+                        }}
+                    }); 
+                </script>
+            </div>
+            <div class="col-md-6 mt-5">
+                <canvas class="cursos-jaca"></canvas>
+                <script src="/static/JS/Chart.min.js"></script>
+                <script>
+                    var ctx = document.getElementsByClassName("cursos-jaca");
+                    var chartGraph = new Chart(ctx, {
+                        type: 'bar',
+                        data: {
+                            labels: ["Analista", "Hardware", "Técnico em T.I"],
+                            datasets: [{
+                                label: "Cursos em Jacareí",
+                                data: [2,2,2,0,1,2,3,4,5],
+                                borderWidth: 6,
+                                borderColor: 'green',
+                                backgroundColor: 'lightgreen'}]},
+                
+                    options: {
+                        title:{
+                            display: true,
+                            fontSize: 25,
+                            text: "Cursos em Jacareí",
+                        }}
+                    }); 
+                </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="vagas-tau"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("vagas-tau");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: ["Líder", "Recursos Humanos", "Operador", "Agente"],
+                          datasets: [{
+                              label: "Empregos em Taubaté",
+                              data: [2,2,2,2,0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Empregos em Taubaté",
+                      }}
+                  }); 
+              </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="cursos-tau"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("cursos-tau");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: [""],
+                          datasets: [{
+                              label: "Cursos em Taubaté",
+                              data: [0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Cursos em Taubaté",
+                      }}
+                  }); 
+              </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="vagas-caça"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("vagas-caça");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: ["Assistente de Logística", "Auxiliar", "Assistente", "Gerente"],
+                          datasets: [{
+                              label: "Empregos em Caçapava",
+                              data: [2,2,1,1,0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Empregos em Caçapava",
+                      }}
+                  }); 
+              </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="cursos-caça"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("cursos-caça");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: ["Lingua Estrangeira", "Auxiliar", "Recursos Humanos", "Técnico"],
+                          datasets: [{
+                              label: "Cursos em Caçapava",
+                              data: [2,1,2,1,0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Cursos em Caçapava",
+                      }}
+                  }); 
+              </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="vagas-aparecida"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("vagas-aparecida");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: ["Auxiliar", "Analista", "Vendedor"],
+                          datasets: [{
+                              label: "Vagas em Aparecida",
+                              data: [2,1,1,0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Vagas em Aparecida",
+                      }}
+                  }); 
+              </script>
+            </div>
+            <div class="col-md-6 mt-5">
+              <canvas class="cursos-aparecida"></canvas>
+              <script src="/static/JS/Chart.min.js"></script>
+              <script>
+                  var ctx = document.getElementsByClassName("cursos-aparecida");
+                  var chartGraph = new Chart(ctx, {
+                      type: 'bar',
+                      data: {
+                          labels: ["Inglês", "Panificação"],
+                          datasets: [{
+                              label: "Cursos em Aparecida",
+                              data: [1,1,0,1,2,3,4,5],
+                              borderWidth: 6,
+                              borderColor: 'green',
+                              backgroundColor: 'lightgreen'}]},
+          
+                  options: {
+                      title:{
+                          display: true,
+                          fontSize: 25,
+                          text: "Cursos em Aparecida",
+                      }}
+                  }); 
+              </script>
+            </div>
+        </div>
+    </div>
+    <br> <br> <br>
+
+
+<footer style="background-color: rgb(70,130,180);" class="text-center text-lg-start">
+  <section class="">
+    <div class="container text-center text-md-start mt-5">
+
+      <div class="row mt-3">
+
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+          <h5 class="text-uppercase fw-bold mb-4 mt-4">
+            <i class="fas fa-gem me-3"></i>Little Tech
+          </h5>
+          <p class="h6">
+            A Empresa mais precisa e eficiente em catalogar páginas sobre vagas disponíveis em toda a região.
+          </p>
+        </div>
+
+
+
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+          <h5 class="text-uppercase fw-bold mb-4">
+            VAGAS EM GERAL
+          </h5>
+          <p class="h6">
+            <a href="#!" class="text-reset">Auxiliar de TI</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">Analista de Tecnologia da Informação (Sênior)</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">
+              Suporte Técnico de TI</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">Analista de Suporte em TI Júnior</a>
+          </p>
+        </div>
+  
+
+  
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 mt-4">
+
+          <h5 class="text-uppercase fw-bold mb-4">
+            Cursos em geral
+          </h5> 
+          <p class="h6">
+            <a href="#!" class="text-reset">Análise e Desenvolvimento de Sistemas</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">Banco de Dados</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">Hardware</a>
+          </p>
+          <p class="h6">
+            <a href="#!" class="text-reset">Ciência da Computação</a>
+          </p>
+        </div>
+
+
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4 mt-4">
+
+          <h5 class="text-uppercase fw-bold mb-4">
+            Contato
+          </h5>
+          <p class="h6"><i class="fas fa-home me-3"></i> São José dos Campos, SP</p>
+          <p class="h6">
+            <i class="fas fa-envelope me-3"></i>
+            little.tech10@gmail.com
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="text-center p-4" style="background-color: rgb(65,105,225)">
+    © 2022 Copyright:
+    <a class="text-reset fw-bold" href="#">Empregus Selectus</a>
+  </div>
+</footer>
+    <script src="/static/JS/bootstrap.bundle.min.js"></script>
+</body>
+</html>
