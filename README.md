@@ -65,8 +65,8 @@ O sistema web deverá ter no mínimo 5 páginas com as seguintes funções:
 ✔️ Catálogo de vagas por região <br>
 <br>
 <br>
-<h2>Confira a demonstração completa do nosso site: 💻</h2><br>
-<h3 align="center"> Link para o vídeo do projeto: https://youtu.be/a5q5imGpems</h3>
+<h2>Confira a demonstração completa do nosso site 💻</h2><br>
+<h3 align="center"> Link para o vídeo do site: https://youtu.be/a5q5imGpems</h3>
 <br>
 <br>
 <h2>Tecnologias Utilizadas 🔧</h2>
